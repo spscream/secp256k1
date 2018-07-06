@@ -5,7 +5,7 @@ Library providing secp256k1 curve operations. Using this library you can:
 - add two points
 
 This code based on source code from answer:
-ttps://bitcoin.stackexchange.com/questions/25024/how-do-you-get-a-bitcoin-public-key-from-a-private-key
+* https://bitcoin.stackexchange.com/questions/25024/how-do-you-get-a-bitcoin-public-key-from-a-private-key
 
 ## Installation
 
